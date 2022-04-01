@@ -1,4 +1,137 @@
-### Hi there 👋
+<!-- markdownlint-disable MD033 -->
+
+# <img align="left" width=30 src="https://cultofthepartyparrot.com/parrots/hd/portalorangeparrot.gif"/> Hello world! I'm Gorniaky! <img align="center" src="../assets/img/kannapoggers.gif" /> <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=gorniaky.visitor-badge" />
+
+<img align="right" src="../assets/img/kannaume.gif" />
+
+- A developer from Rio de Janeiro, Brazil.
+- Working in: [![konan]][konan_repo]
+
+[![github_stats_light]](#gh-light-mode-only)
+[![github_stats_dark]](#gh-dark-mode-only)
+
+<h3><details>
+<summary align="center">📦 Languages and tools <a href="https://github.com/Gorniaky"><img width=30 src="https://cultofthepartyparrot.com/guests/hd/stubparrot.gif"/></a></summary>
+<img align="right" src="../assets/img/kannainspect.png" />
+<br>
+
+[![bootstrap]](https://getbootstrap.com)
+[![expressjs]](https://expressjs.com)
+[![insomnia]](https://insomnia.rest)
+[![markdown]](https://www.markdownguide.org)
+[![nodejs]](https://nodejs.org)
+[![npm]](https://npmjs.com)
+[![reactjs]](https://reactjs.org)
+[![yarn]](https://yarnpkg.com)
+
+[![css]](https://developer.mozilla.org/docs/Web/CSS)
+[![html]](https://developer.mozilla.org/docs/Web/HTML)
+[![typescript]](https://typescriptlang.org)
+
+[![sequelize]](https://sequelize.org)
+[![prisma]](https://www.prisma.io)
+
+| [![github_streak_dark]](#gh-dark-mode-only) [![github_streak_light]](#gh-light-mode-only) | [![github_langs_dark]](#gh-dark-mode-only) [![github_langs_light]](#gh-light-mode-only) |
+| ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+
+</details></h3>
+
+## Connect with me <img width=30 src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif"/>
+
+[![linkedin]][mylinkedin]
+[![hwsss2]][tohwsss2]
+[![gorniaky_steam]][steam_profile]
+[![nolabel_twitter_status]][twitter_profile]
+[![nolabel_youtube_status]][youtube_channel]
+[![nolabel_twitch_status]][twitchtv]
+
+<img src="../assets/img/kannaeating.gif" width=100% />
+
+[![liberapay]][liberapay_donate]
+[![patreon]][patreon_profile]
+[![paypal]][paypal_donate]
+[![picpay]][picpay_profile]
+<img align="right" width=30 src="https://cultofthepartyparrot.com/parrots/hd/portalblueparrot.gif"/>
+
+![Snake animation](../snake/github-contribution-grid-snake.gif#gh-light-mode-only)
+![Snake animation](../snake/github-contribution-grid-snake.svg#gh-dark-mode-only)
+
+<!-- END -->
+
+<!-- Links -->
+
+[cultofthepartyparrot]: https://cultofthepartyparrot.com/
+[github]: https://github.com/Gorniaky
+[liberapay_donate]: https://liberapay.com/gorniaky
+[konan_repo]: https://github.com/Raccoons-Code/Konan
+[mylinkedin]: https://www.linkedin.com/in/humbertowalviece
+[patreon_profile]: https://patreon.com/gorniaky
+[paypal_donate]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9LACZTNA586MG
+[picpay_profile]: https://picpay.me/humberto.walviece
+[steam_profile]: https://steamcommunity.com/id/gorniaky
+[tohwsss2]: mailto:hwss.s2@gmail.com
+[twitchtv]: https://twitch.tv/Gorniaky
+[twitter_profile]: https://twitter.com/gorniaky13
+[youtube_channel]: https://www.youtube.com/channel/UCF_mmB9KfxQ5ZJXOQXf-hvA
+
+<!-- Contact -->
+
+[hwsss2]: https://img.shields.io/badge/hwss.s2-D14836?style=flat&logo=gmail&logoColor=white
+[linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white
+
+<!-- Dynamic -->
+
+[github_langs_dark]: https://github-readme-stats.vercel.app/api/top-langs/?username=Gorniaky&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000
+[github_langs_light]: https://github-readme-stats.vercel.app/api/top-langs/?username=Gorniaky&layout=compact&hide_border=true&bg_color=00000000
+[github_stats_dark]: https://github-readme-stats.vercel.app/api?username=Gorniaky&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000
+[github_stats_light]: https://github-readme-stats.vercel.app/api?username=Gorniaky&show_icons=true&hide_border=true&bg_color=00000000
+[github_streak_dark]: https://github-readme-streak-stats.herokuapp.com/?user=Gorniaky&theme=github-dark&hide_border=true&background=00000000
+[github_streak_light]: https://github-readme-streak-stats.herokuapp.com/?user=Gorniaky&hide_border=true&background=00000000
+[nolabel_twitch_status]: https://img.shields.io/twitch/status/Gorniaky?label=&style=social
+[nolabel_twitter_status]: https://img.shields.io/twitter/follow/gorniaky13?label=&style=social
+[nolabel_youtube_status]: https://img.shields.io/youtube/channel/subscribers/UCF_mmB9KfxQ5ZJXOQXf-hvA?label=&style=social
+
+<!-- Frameworks -->
+
+[bootstrap]: https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white
+[expressjs]: https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white
+[insomnia]: https://img.shields.io/badge/Insomnia-5849be?style=flat&logo=Insomnia&logoColor=white
+[markdown]: https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white
+[nodejs]: https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white
+[npm]: https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white
+[reactjs]: https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB
+[shell_script]: https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white
+[yarn]: https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white
+
+<!-- Funding -->
+
+[buy_me_a_coffe]: https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black
+[liberapay]: https://img.shields.io/badge/Liberapay-F6C915?style=flat&logo=liberapay&logoColor=black
+[patreon]: https://img.shields.io/badge/Patreon-F96854?style=flat&logo=patreon&logoColor=white
+[paypal]: https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white
+[picpay]: https://img.shields.io/badge/picpay-21C25E?style=flat&logo=picpay&logoColor=white
+[sponsor]: https://img.shields.io/badge/sponsor-30363D?style=flat&logo=GitHub-Sponsors&logoColor=#white
+
+<!-- Games -->
+
+[gorniaky_steam]: https://img.shields.io/badge/Gorniaky-000000?style=flat&logo=steam&logoColor=white
+
+<!-- Languages -->
+
+[css]: https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white
+[html]: https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white
+[javascript]: https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E
+[typescript]: https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white
+
+<!-- ORM -->
+
+[mongoose]: https://img.shields.io/badge/Mongoose-4EA94B?style=flat&logo=mongodb&logoColor=white
+[sequelize]: https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white
+[prisma]: https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white
+
+<!-- Projects -->
+
+[konan]: https://img.shields.io/badge/Raccoons--Code-Konan-yellowgreen
 
 <!--
 **Gorniaky/Gorniaky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
