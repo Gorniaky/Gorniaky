@@ -1,8 +1,8 @@
 name: Snake Animation
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule: # execute every 24 hours
+    - cron: "* 1 * * *"
   workflow_dispatch:
 
 jobs:
@@ -18,7 +18,7 @@ jobs:
           svg_out_path: dist/github-contribution-grid-snake.svg
           gif_out_path: dist/github-contribution-grid-snake.gif
 
-      - uses: crazy-max/ghaction-github-pages@v2.5.0
+      - uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
           target_branch: snake
           build_dir: dist

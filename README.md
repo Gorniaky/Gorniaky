@@ -5,7 +5,7 @@
 <img align="right" src="../assets/img/kannaume.gif" />
 
 - A developer from Rio de Janeiro, Brazil.
-- Working in: [![konan]][konan_repo]
+- Working on: [![konan]][konan_repo]
 
 [![github_stats_light]](#gh-light-mode-only)
 [![github_stats_dark]](#gh-dark-mode-only)
