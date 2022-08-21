@@ -47,6 +47,7 @@
 
 <img src="../assets/img/kannaeating.gif" width=100% />
 
+[![buymeacoffee]][buymeacoffee_profile]
 [![liberapay]][liberapay_donate]
 [![patreon]][patreon_profile]
 [![paypal]][paypal_donate]
@@ -60,6 +61,7 @@
 
 <!-- Links -->
 
+[buymeacoffee_profile]: https://www.buymeacoffee.com/Gorniaky
 [cultofthepartyparrot]: https://cultofthepartyparrot.com/
 [github]: https://github.com/Gorniaky
 [liberapay_donate]: https://liberapay.com/gorniaky
@@ -105,12 +107,12 @@
 
 <!-- Funding -->
 
-[buy_me_a_coffe]: https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black
-[liberapay]: https://img.shields.io/badge/Liberapay-F6C915?style=flat&logo=liberapay&logoColor=black
+[buymeacoffee]: https://img.shields.io/badge/Buy_me_a_coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black
+[liberapay]: https://img.shields.io/badge/LiberaPay-F6C915?style=flat&logo=liberapay&logoColor=black
 [patreon]: https://img.shields.io/badge/Patreon-F96854?style=flat&logo=patreon&logoColor=white
 [paypal]: https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white
-[picpay]: https://img.shields.io/badge/picpay-21C25E?style=flat&logo=picpay&logoColor=white
-[sponsor]: https://img.shields.io/badge/sponsor-30363D?style=flat&logo=GitHub-Sponsors&logoColor=#white
+[picpay]: https://img.shields.io/badge/PicPay-21C25E?style=flat&logo=picpay&logoColor=white
+[sponsor]: https://img.shields.io/badge/Sponsor-30363D?style=flat&logo=GitHub-Sponsors&logoColor=#white
 
 <!-- Games -->
 
