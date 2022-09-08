@@ -66,8 +66,8 @@
 
 [buymeacoffee_profile]: https://www.buymeacoffee.com/Gorniaky
 [cultofthepartyparrot]: https://cultofthepartyparrot.com
-[discloudapp_repo]: (https://github.com/gorniaky/discloud.app)
-[discloudcli_repo]: (https://github.com/discloud/cli)
+[discloudapp_repo]: https://github.com/gorniaky/discloud.app
+[discloudcli_repo]: https://github.com/discloud/cli
 [github]: https://github.com/Gorniaky
 [liberapay_donate]: https://liberapay.com/gorniaky
 [konan_repo]: https://github.com/Raccoons-Code/Konan
