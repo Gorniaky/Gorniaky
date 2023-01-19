@@ -29,6 +29,8 @@
 
 [![css]](https://developer.mozilla.org/docs/Web/CSS)
 [![html]](https://developer.mozilla.org/docs/Web/HTML)
+[![php]](https://www.php.net)
+[![sql]](https://www.w3schools.com/sql)
 [![typescript]](https://typescriptlang.org)
 
 [![sequelize]](https://sequelize.org)
@@ -128,6 +130,8 @@
 [css]: https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white
 [html]: https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white
 [javascript]: https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E
+[php]: https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white
+[sql]: https://img.shields.io/badge/SQL-005C84?style=flat&logoColor=white
 [typescript]: https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white
 
 <!-- ORM -->
