@@ -9,6 +9,7 @@
 [![konan]][konan_repo]
 [![discloudapp]][discloudapp_repo]
 [![discloudcli]][discloudcli_repo]
+[![discloudextension]][discloudcli_repo]
 
 [![github_stats_light]](#gh-light-mode-only)
 [![github_stats_dark]](#gh-dark-mode-only)
@@ -68,8 +69,9 @@
 
 [buymeacoffee_profile]: https://www.buymeacoffee.com/Gorniaky
 [cultofthepartyparrot]: https://cultofthepartyparrot.com
-[discloudapp_repo]: https://github.com/gorniaky/discloud.app
+[discloudapp_repo]: https://github.com/discloud/discloud.app
 [discloudcli_repo]: https://github.com/discloud/cli
+[discloudextension_repo]: https://github.com/discloud/vscode-discloud
 [github]: https://github.com/Gorniaky
 [liberapay_donate]: https://liberapay.com/gorniaky
 [konan_repo]: https://github.com/Raccoons-Code/Konan
@@ -144,6 +146,7 @@
 
 [discloudapp]: https://img.shields.io/badge/Discloud-APP-blue
 [discloudcli]: https://img.shields.io/badge/Discloud-CLI-blue
+[discloudextension]: https://img.shields.io/badge/Discloud-Extension-blue
 [konan]: https://img.shields.io/badge/Raccoons--Code-Konan-yellowgreen
 
 <!--
