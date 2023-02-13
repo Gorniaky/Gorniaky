@@ -9,7 +9,7 @@
 [![konan]][konan_repo]
 [![discloudapp]][discloudapp_repo]
 [![discloudcli]][discloudcli_repo]
-[![discloudextension]][discloudcli_repo]
+[![discloudextension]][discloudextension_repo]
 
 [![github_stats_light]](#gh-light-mode-only)
 [![github_stats_dark]](#gh-dark-mode-only)
