@@ -19,15 +19,12 @@
 <img align="right" src="../assets/img/kannainspect.png" />
 <br>
 
-[![expressjs]](https://expressjs.com)
-[![nodejs]](https://nodejs.org)
-
 [![c#]](https://learn.microsoft.com/dotnet/csharp)
 [![sql]](https://www.w3schools.com/sql)
 [![typescript]](https://typescriptlang.org)
 
-[![sequelize]](https://sequelize.org)
-[![prisma]](https://www.prisma.io)
+[![expressjs]](https://expressjs.com)
+[![nodejs]](https://nodejs.org)
 
 | [![github_streak_dark]](#gh-dark-mode-only) [![github_streak_light]](#gh-light-mode-only) | [![github_langs_dark]](#gh-dark-mode-only) [![github_langs_light]](#gh-light-mode-only) |
 | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
