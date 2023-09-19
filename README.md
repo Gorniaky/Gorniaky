@@ -11,8 +11,8 @@
 [![discloudcli]][discloudcli_repo]
 [![discloudextension]][discloudextension_repo]
 
-[![github_stats_light](https://github-readme-stats.vercel.app/api?username=Gorniaky&show_icons=true&hide_border=true&bg_color=00000000#gh-light-mode-only)](#gh-light-mode-only)
-[![github_stats_dark](https://github-readme-stats.vercel.app/api?username=Gorniaky&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000#gh-dark-mode-only)](#gh-dark-mode-only)
+[![github_stats_light]](#gh-light-mode-only)
+[![github_stats_dark]](#gh-dark-mode-only)
 
 <h3><details>
 <summary align="center">📦 Languages and tools <a href="https://github.com/Gorniaky"><img width=30 src="https://cultofthepartyparrot.com/guests/hd/stubparrot.gif"/></a></summary>
@@ -94,9 +94,9 @@
 
 [github_langs_dark]: https://github-readme-stats.vercel.app/api/top-langs/?username=Gorniaky&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000
 [github_langs_light]: https://github-readme-stats.vercel.app/api/top-langs/?username=Gorniaky&layout=compact&hide_border=true&bg_color=00000000
-[github_stats_dark]: https://github-readme-stats.vercel.app/api?username=Gorniaky&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000#gh-dark-mode-only
-[github_stats_light]: https://github-readme-stats.vercel.app/api?username=Gorniaky&show_icons=true&hide_border=true&bg_color=00000000#gh-light-mode-only
-[github_streak_dark]: https://github-readme-streak-stats.herokuapp.com/?user=Gorniaky&theme=github-dark&hide_border=true&background=00000000#gh-dark-mode-only
+[github_stats_dark]: https://github-readme-stats.vercel.app/api?username=Gorniaky&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000
+[github_stats_light]: https://github-readme-stats.vercel.app/api?username=Gorniaky&show_icons=true&hide_border=true&bg_color=00000000
+[github_streak_dark]: https://github-readme-streak-stats.herokuapp.com/?user=Gorniaky&theme=github-dark&hide_border=true&background=00000000
 [github_streak_light]: https://github-readme-streak-stats.herokuapp.com/?user=Gorniaky&hide_border=true&background=00000000
 [nolabel_twitch_status]: https://img.shields.io/twitch/status/Gorniaky?label=&style=social
 [nolabel_twitter_status]: https://img.shields.io/twitter/follow/gorniaky13?label=&style=social
