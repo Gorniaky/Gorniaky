@@ -19,14 +19,8 @@
 <img align="right" src="../assets/img/kannainspect.png" />
 <br>
 
-[![bootstrap]](https://getbootstrap.com)
 [![expressjs]](https://expressjs.com)
-[![insomnia]](https://insomnia.rest)
-[![markdown]](https://www.markdownguide.org)
 [![nodejs]](https://nodejs.org)
-[![npm]](https://npmjs.com)
-[![reactjs]](https://reactjs.org)
-[![yarn]](https://yarnpkg.com)
 
 [![c#]](https://learn.microsoft.com/dotnet/csharp)
 [![sql]](https://www.w3schools.com/sql)
