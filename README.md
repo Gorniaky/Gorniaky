@@ -28,8 +28,6 @@
 [![reactjs]](https://reactjs.org)
 [![yarn]](https://yarnpkg.com)
 
-[![css]](https://developer.mozilla.org/docs/Web/CSS)
-[![html]](https://developer.mozilla.org/docs/Web/HTML)
 [![c#]](https://learn.microsoft.com/dotnet/csharp)
 [![sql]](https://www.w3schools.com/sql)
 [![typescript]](https://typescriptlang.org)
