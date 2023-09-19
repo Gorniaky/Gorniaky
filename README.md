@@ -60,8 +60,8 @@
 [![picpay]][picpay_profile]
 <img align="right" width=30 src="https://cultofthepartyparrot.com/parrots/hd/portalblueparrot.gif"/>
 
-![Snake animation](../snake/github-contribution-grid-snake.gif#gh-light-mode-only)
-![Snake animation](../snake/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![Snake animation](../snake/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake animation](../snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <!-- END -->
 
