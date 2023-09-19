@@ -15,7 +15,7 @@ jobs:
           # github user name to read the contribution graph from (**required**)
           # using action context var `github.repository_owner` or specified user
           github_user_name: ${{ github.repository_owner }}
-        
+
           # list of files to generate.
           # one file per line. Each output can be customized with options as query string.
           #
@@ -29,10 +29,18 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-          
+
         env:
           # a github token is required to fetch the contribution calendar from github API
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: snake
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       # Snake Animation
       # - uses: Platane/snk@master
       #   id: snake-gif
