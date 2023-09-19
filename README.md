@@ -95,8 +95,8 @@
 [github_langs_dark]: https://github-readme-stats.vercel.app/api/top-langs/?username=Gorniaky&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000
 [github_langs_light]: https://github-readme-stats.vercel.app/api/top-langs/?username=Gorniaky&layout=compact&hide_border=true&bg_color=00000000
 [github_stats_dark]: https://github-readme-stats.vercel.app/api?username=Gorniaky&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000
-[github_stats_light]: https://github-readme-stats.vercel.app/api?username=Gorniaky&show_icons=true&hide_border=true&bg_color=00000000
-[github_streak_dark]: https://github-readme-streak-stats.herokuapp.com/?user=Gorniaky&theme=github-dark&hide_border=true&background=00000000
+[github_stats_light]: https://github-readme-stats.vercel.app/api?username=Gorniaky&show_icons=true&hide_border=true&bg_color=00000000#gh-light-mode-only
+[github_streak_dark]: https://github-readme-streak-stats.herokuapp.com/?user=Gorniaky&theme=github-dark&hide_border=true&background=00000000#gh-dark-mode-only
 [github_streak_light]: https://github-readme-streak-stats.herokuapp.com/?user=Gorniaky&hide_border=true&background=00000000
 [nolabel_twitch_status]: https://img.shields.io/twitch/status/Gorniaky?label=&style=social
 [nolabel_twitter_status]: https://img.shields.io/twitter/follow/gorniaky13?label=&style=social
