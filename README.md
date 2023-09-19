@@ -11,8 +11,8 @@
 [![discloudcli]][discloudcli_repo]
 [![discloudextension]][discloudextension_repo]
 
-[![github_stats_light]](#gh-light-mode-only)
-[![github_stats_dark]](#gh-dark-mode-only)
+[![github_stats_light](https://github-readme-stats.vercel.app/api?username=Gorniaky&show_icons=true&hide_border=true&bg_color=00000000#gh-light-mode-only)](#gh-light-mode-only)
+[![github_stats_dark](https://github-readme-streak-stats.herokuapp.com/?user=Gorniaky&theme=github-dark&hide_border=true&background=00000000#gh-dark-mode-only)](#gh-dark-mode-only)
 
 <h3><details>
 <summary align="center">📦 Languages and tools <a href="https://github.com/Gorniaky"><img width=30 src="https://cultofthepartyparrot.com/guests/hd/stubparrot.gif"/></a></summary>
