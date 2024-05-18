@@ -40,11 +40,13 @@
 
 <img src="../assets/img/kannaeating.gif" width=100% />
 
+<!--
 [![buymeacoffee]][buymeacoffee_profile]
 [![liberapay]][liberapay_donate]
 [![patreon]][patreon_profile]
 [![paypal]][paypal_donate]
 [![picpay]][picpay_profile]
+-->
 <img align="right" width=30 src="https://cultofthepartyparrot.com/parrots/hd/portalblueparrot.gif"/>
 
 ![Snake animation](../snake/github-contribution-grid-snake.svg#gh-light-mode-only)
