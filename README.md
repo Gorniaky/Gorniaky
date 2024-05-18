@@ -35,8 +35,6 @@
 
 [![linkedin]][mylinkedin]
 [![hwsss2]][tohwsss2]
-[![gorniaky_steam]][steam_profile]
-[![nolabel_twitter_status]][twitter_profile]
 [![nolabel_youtube_status]][youtube_channel]
 [![nolabel_twitch_status]][twitchtv]
 
@@ -68,10 +66,8 @@
 [patreon_profile]: https://patreon.com/gorniaky
 [paypal_donate]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9LACZTNA586MG
 [picpay_profile]: https://picpay.me/humberto.walviece
-[steam_profile]: https://steamcommunity.com/id/gorniaky
 [tohwsss2]: mailto:hwss.s2@gmail.com
 [twitchtv]: https://twitch.tv/Gorniaky
-[twitter_profile]: https://twitter.com/gorniaky13
 [youtube_channel]: https://www.youtube.com/channel/UCF_mmB9KfxQ5ZJXOQXf-hvA
 
 <!-- Contact -->
