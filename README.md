@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 MD051 MD053 -->
 
-# <img align="left" width=30 src="https://cultofthepartyparrot.com/parrots/hd/portalorangeparrot.gif"/> Hello world! I'm Gorniaky! <img align="center" src="../assets/img/kannapoggers.gif" /> <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=gorniaky.visitor-badge" />
+# <img align="left" width=30 src="https://cultofthepartyparrot.com/parrots/hd/portalorangeparrot.gif"/> Hello world! I'm Gorniaky! <img align="center" src="../assets/img/kannapoggers.gif" /> <!-- <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=gorniaky.visitor-badge" /> -->
 
 <img align="right" src="../assets/img/kannaume.gif" />
 
@@ -83,8 +83,8 @@
 [github_langs_light]: https://github-readme-stats.vercel.app/api/top-langs/?username=Gorniaky&layout=compact&hide_border=true&bg_color=00000000
 [github_stats_dark]: https://github-readme-stats.vercel.app/api?username=Gorniaky&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000
 [github_stats_light]: https://github-readme-stats.vercel.app/api?username=Gorniaky&show_icons=true&hide_border=true&bg_color=00000000
-[github_streak_dark]: https://github-readme-streak-stats.herokuapp.com/?user=Gorniaky&theme=github-dark&hide_border=true&background=00000000
-[github_streak_light]: https://github-readme-streak-stats.herokuapp.com/?user=Gorniaky&hide_border=true&background=00000000
+[github_streak_dark]: https://streak-stats.demolab.com?user=Gorniaky&theme=github-dark&hide_border=true&background=00000000
+[github_streak_light]: https://streak-stats.demolab.com/?user=Gorniaky&hide_border=true&background=00000000
 [nolabel_twitch_status]: https://img.shields.io/twitch/status/Gorniaky?label=&style=social
 [nolabel_twitter_status]: https://img.shields.io/twitter/follow/gorniaky13?label=&style=social
 [nolabel_youtube_status]: https://img.shields.io/youtube/channel/subscribers/UCF_mmB9KfxQ5ZJXOQXf-hvA?label=&style=social
