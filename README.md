@@ -11,23 +11,24 @@
 [![discloudcli]][discloudcli_repo]
 [![discloudextension]][discloudextension_repo]
 
-[![github_stats_light]](#gh-light-mode-only)
-[![github_stats_dark]](#gh-dark-mode-only)
+<!-- [![github_stats_light]](#gh-light-mode-only)
+[![github_stats_dark]](#gh-dark-mode-only) -->
 
 <h3><details>
 <summary align="center">📦 Languages and tools <a href="https://github.com/Gorniaky"><img width=30 src="https://cultofthepartyparrot.com/guests/hd/stubparrot.gif"/></a></summary>
-<img align="right" src="../assets/img/kannainspect.png" />
+<!-- <img align="right" src="../assets/img/kannainspect.png" /> -->
 <br>
 
-[![c#]](https://learn.microsoft.com/dotnet/csharp)
+<!-- [![c#]](https://learn.microsoft.com/dotnet/csharp) -->
+[![dart]](https://dart.dev)
+[![flutter]](https://flutter.dev)
 [![sql]](https://www.w3schools.com/sql)
 [![typescript]](https://typescriptlang.org)
 
-[![expressjs]](https://expressjs.com)
-[![nodejs]](https://nodejs.org)
+<!-- [![github_langs_dark]](#gh-dark-mode-only) [![github_langs_light]](#gh-light-mode-only) -->
 
-| [![github_streak_dark]](#gh-dark-mode-only) [![github_streak_light]](#gh-light-mode-only) | [![github_langs_dark]](#gh-dark-mode-only) [![github_langs_light]](#gh-light-mode-only) |
-| ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| [![github_streak_dark]](#gh-dark-mode-only) [![github_streak_light]](#gh-light-mode-only) |
+| ----------------------------------------------------------------------------------------- |
 
 </details></h3>
 
@@ -56,7 +57,7 @@
 [buymeacoffee_profile]: https://www.buymeacoffee.com/Gorniaky
 [cultofthepartyparrot]: https://cultofthepartyparrot.com
 [discloudapp_repo]: https://github.com/discloud/discloud.app
-[discloudcli_repo]: https://github.com/discloud/cli
+[discloudcli_repo]: https://github.com/discloud/cli-dart
 [discloudextension_repo]: https://github.com/discloud/vscode-discloud
 [github]: https://github.com/Gorniaky
 [liberapay_donate]: https://liberapay.com/gorniaky
@@ -112,6 +113,8 @@
 
 [c#]: https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white
 [css]: https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white
+[dart]: https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white
+[flutter]: https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff
 [html]: https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white
 [javascript]: https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E
 [php]: https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white
